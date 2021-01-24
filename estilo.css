@@ -1,0 +1,139 @@
+.periodo1 {
+  position: relative;
+  font-style: oblique;
+  background-color: white;
+  text-decoration: none;
+  padding: .375rem .75rem;
+  border: 1px solid #29286D;
+  border-radius: .25rem;
+  color: #29286D;
+  transition: color .15s ease-in-out,
+  background-color .15s ease-in-out;
+  font-size: 25px;
+}
+
+.periodo1:hover, .periodo1:active, .periodo1:focus {
+  color: white;
+  background-color: #29286D;
+}
+
+.periodo2 {
+  position: relative;
+  font-style: italic;
+  background-color: white;
+  text-decoration: none;
+  padding: .375rem .75rem;
+  border: 1px solid #396FD2;
+  border-radius: .25rem;
+  color: #396FD2;
+  transition: color .15s ease-in-out,
+  background-color .15s ease-in-out;
+  font-size: 25px;
+}
+
+.periodo2:hover, .periodo2:active, .periodo2:focus {
+  color: #fff;
+  background-color: #396FD2;
+}
+
+.periodo3 {
+  position: relative;
+  font-style: italic;
+  background-color: white;
+  text-decoration: none;
+  padding: .375rem .75rem;
+  border: 1px solid #193D7F;
+  border-radius: .25rem;
+  color: #193D7F;
+  transition: color .15s ease-in-out,
+  background-color .15s ease-in-out;
+  font-size: 25px;
+}
+
+.periodo3:hover, .periodo3:active, .periodo3:focus {
+  color: #fff;
+  background-color: #193D7F;
+}
+
+.periodo4 {
+  position: relative;
+  font-style: italic;
+  background-color: white;
+  text-decoration: none;
+  padding: .375rem .75rem;
+  border: 1px solid #174385;
+  border-radius: .25rem;
+  color: #174385;
+  transition: color .15s ease-in-out,
+  background-color .15s ease-in-out;
+  font-size: 25px;
+}
+
+.periodo4:hover, .periodo4:active, .periodo4:focus {
+  color: #fff;
+  background-color: #174385;
+}
+
+.nombre
+{
+     position: absolute;
+     height: 44%;
+     width: 40%;
+     top: 10%;
+     left: 27%;
+     background-color: #E76A31;
+     border-radius: .25rem;
+
+     -webkit-box-shadow: 8px 8px 11px #999;       /* -SOMBRA- */
+     -moz-box-shadow: 2px 2px 5px #999;
+}
+
+.borde2{
+  position: absolute;
+  left: 27.3%;
+  top: 19.6%; ;
+  width: 10%;
+}
+
+.borde1{
+  position: absolute;
+  left: 61.7%;
+  top: 10.6%; ;
+  width: 10%;
+}
+
+.imagen{
+  position: relative;
+  width: 60%;
+}
+
+.fondo{
+  position: absolute;
+  opacity: 100%;
+  height: 101%;
+  width: 100%;
+  right: 0%;
+  top: -1%;
+}
+
+.letrainfD{
+     position: absolute;
+     height: 15%;
+     width: 30%;
+     left: 35%;
+     top: 70%;
+     border-radius: 8px;
+     opacity: 50%;
+     background-color: black;
+     border-radius: .25rem;
+
+     -webkit-box-shadow: 8px 8px 11px #999;       /* -SOMBRA- */
+     -moz-box-shadow: 2px 2px 5px #999;
+}
+
+.letrainf{
+  position: absolute;
+  width: 40%;
+  top: 73.5%;
+  left: 29.5%;
+}
